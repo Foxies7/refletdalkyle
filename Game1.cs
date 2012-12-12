@@ -16,14 +16,11 @@ namespace WindowsGame1
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
-        private Texture2D Pika;     //on créé un attribut
-        private Texture2D zonzor;
-        private Vector2 Position;
-        private Vector2 Position2;
-        private Vector2 Displacement;
-        private Vector2 Displacement2;
+        private Texture2D zonzor;        //on créé un attribut
         private int Largeur;
         private int Longueur;
+        private Vector2 Position;
+        private KeyboardState keyboard;  //état du clavier
 
         public Game1()
         {
@@ -34,10 +31,6 @@ namespace WindowsGame1
    
         protected override void Initialize()
         {
-            Position = Vector2.Zero;                         //initialisation de la position de l'image
-            Position2 = new Vector2(0, 5);
-            Displacement = new Vector2(3, 2);                      //initialisation de son déplacement
-            Displacement2 = new Vector2(2, 3);
             Largeur = Window.ClientBounds.Width;             //prend la largeur et longueur de la fenêtre
             Longueur = Window.ClientBounds.Height;
                 
@@ -48,9 +41,9 @@ namespace WindowsGame1
         protected override void LoadContent()
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
-
-            Pika = Content.Load<Texture2D>("Pika");                     //chargement de l'image
-            zonzor = Content.Load<Texture2D>("zonzor");
+            zonzor = Content.Load<Texture2D>("zonzor");   //chargement de l'image
+            Position = new Vector2(Largeur / 2 - zonzor.Width / 2, Longueur / 2 - zonzor.Height / 2);
+            
 
         }
 
@@ -62,33 +55,26 @@ namespace WindowsGame1
 
         protected override void Update(GameTime gameTime)
         {
-            if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
-                this.Exit();
+            keyboard = Keyboard.GetState();
 
-            Position += Displacement;   //la position change pour chaque update 
-            Position2 += Displacement2;
-
-            if ((Displacement.X < 0 && Position.X <= 0) || (Displacement.X > 0 && Position.X + Pika.Width >= Largeur))
+            if (keyboard.IsKeyDown(Keys.Up))                   //si la touche up est effoncée...
             {
-                Displacement.X = -Displacement.X;
+                Position.Y -= 2;                                
+            }
+            else if (keyboard.IsKeyDown(Keys.Down))
+            {
+                Position.Y += 2;
             }
 
-            if ((Displacement.Y < 0 && Position.Y <= 0) || (Displacement.Y > 0 && Position.Y + Pika.Width >= Longueur))
+            if (keyboard.IsKeyDown(Keys.Right))                //pour savoir si une touche est relachée on utilise IsKeyUp(Keys.) sisi!
             {
-                Displacement.Y = -Displacement.Y;
+                Position.X += 2;
             }
-
-            if ((Displacement2.X < 0 && Position2.X <= 0) || (Displacement2.X > 0 && Position2.X + zonzor.Width >= Largeur))
-                {
-                    Displacement2.X = -Displacement2.X;
-                }
-
-            if ((Displacement2.Y < 0 && Position2.Y <= 0) || (Displacement2.Y > 0 && Position2.Y + zonzor.Width >= Longueur))
-                {
-                    Displacement2.Y = -Displacement2.Y;
-                }
-
-                base.Update(gameTime);
+            else if (keyboard.IsKeyDown(Keys.Left))
+            {
+                Position.X -= 2;
+            }
+            base.Update(gameTime);
             
         }
 
@@ -97,8 +83,7 @@ namespace WindowsGame1
             GraphicsDevice.Clear(Color.Yellow);
 
             spriteBatch.Begin();                                                       //affiche image et la déplace 
-            spriteBatch.Draw(Pika, Position,Color.White);
-            spriteBatch.Draw(zonzor, Position2, Color.White);          
+            spriteBatch.Draw(zonzor, Position, Color.White);          
             spriteBatch.End();
 
 
