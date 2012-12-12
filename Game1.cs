@@ -21,6 +21,7 @@ namespace WindowsGame1
         private Vector2 Position;
         private Vector2 Position2;
         private Vector2 Displacement;
+        private Vector2 Displacement2;
         private int Largeur;
         private int Longueur;
 
@@ -30,27 +31,20 @@ namespace WindowsGame1
             Content.RootDirectory = "Content";
         }
         
-        /// Allows the game to perform any initialization it needs to before starting to run.
-        /// This is where it can query for any required services and load any non-graphic
-        /// related content.  Calling base.Initialize will enumerate through any components
-        /// and initialize them as well.
    
         protected override void Initialize()
         {
             Position = Vector2.Zero;                         //initialisation de la position de l'image
-            Position2 = new Vector2(0, 3);
-            Displacement = new Vector2(5, 3);                      //initialisation de son déplacement
-            Largeur = Window.ClientBounds.Width;             //initialise la largeur pui la longueur de l'écran
+            Position2 = new Vector2(0, 5);
+            Displacement = new Vector2(3, 2);                      //initialisation de son déplacement
+            Displacement2 = new Vector2(2, 3);
+            Largeur = Window.ClientBounds.Width;             //prend la largeur et longueur de la fenêtre
             Longueur = Window.ClientBounds.Height;
                 
             base.Initialize();
 
         }
 
-        /// <summary>
-        /// LoadContent will be called once per game and is the place to load
-        /// all of your content.
-        /// </summary>
         protected override void LoadContent()
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
@@ -60,13 +54,9 @@ namespace WindowsGame1
 
         }
 
-        /// <summary>
-        /// UnloadContent will be called once per game and is the place to unload
-        /// all content.
-        /// </summary>
         protected override void UnloadContent()
         {
-            // TODO: Unload any non ContentManager content here
+            
         }
 
 
@@ -75,7 +65,8 @@ namespace WindowsGame1
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();
 
-            Position += Displacement;   //la position change pour chaque update ( on ajoute 1,1 aux coordonnées)
+            Position += Displacement;   //la position change pour chaque update 
+            Position2 += Displacement2;
 
             if ((Displacement.X < 0 && Position.X <= 0) || (Displacement.X > 0 && Position.X + Pika.Width >= Largeur))
             {
@@ -85,25 +76,22 @@ namespace WindowsGame1
             if ((Displacement.Y < 0 && Position.Y <= 0) || (Displacement.Y > 0 && Position.Y + Pika.Width >= Longueur))
             {
                 Displacement.Y = -Displacement.Y;
+            }
 
-                if ((Displacement.X < 0 && Position.X <= 0) || (Displacement.X > 0 && Position.X + zonzor.Width >= Largeur))
+            if ((Displacement2.X < 0 && Position2.X <= 0) || (Displacement2.X > 0 && Position2.X + zonzor.Width >= Largeur))
                 {
-                    Displacement.X = -Displacement.X;
+                    Displacement2.X = -Displacement2.X;
                 }
 
-                if ((Displacement.Y < 0 && Position.Y <= 0) || (Displacement.Y > 0 && Position.Y + zonzor.Width >= Longueur))
+            if ((Displacement2.Y < 0 && Position2.Y <= 0) || (Displacement2.Y > 0 && Position2.Y + zonzor.Width >= Longueur))
                 {
-                    Displacement.Y = -Displacement.Y;
+                    Displacement2.Y = -Displacement2.Y;
                 }
 
                 base.Update(gameTime);
-            }
+            
         }
 
-        /// <summary>
-        /// This is called when the game should draw itself.
-        /// </summary>
-        /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.Yellow);
