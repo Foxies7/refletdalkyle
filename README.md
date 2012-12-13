@@ -1,2 +1,2 @@
-refletdalkyle by Duck/Enshiro/Ina/Mira
+refletdalkyle by Duck/Enshiro/Inad/Mira
 =============
