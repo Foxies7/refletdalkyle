@@ -1,0 +1,2 @@
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Jeu\Jeu\Jeu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Jeu\Jeu\Jeu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
