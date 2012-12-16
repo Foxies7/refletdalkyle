@@ -1,0 +1,2 @@
+C:\Users\Enshiro\Documents\Visual Studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
