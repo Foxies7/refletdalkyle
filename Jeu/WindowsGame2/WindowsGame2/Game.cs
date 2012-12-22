@@ -22,7 +22,7 @@ namespace WindowsGame2
         private Texture2D link0;        //on créé un attribut
         private int Largeur;
         private int Longueur;
-        private int Speed = 1;
+        private int Speed = 3;
         private Vector2 Position;
         private KeyboardState keyboard;  //état du clavier
 
@@ -46,7 +46,7 @@ namespace WindowsGame2
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
             link0 = Content.Load<Texture2D>("0");   //chargement de l'image
-            Position = new Vector2(Largeur / 2 - link0.Width / 2, Longueur / 2 - link0.Height / 2);
+            Position = new Vector2(Largeur / 2 - link0.Width / 2, Longueur / 2 - link0.Height / 2); //place initialement l'image au centre
 
 
         }
@@ -61,23 +61,50 @@ namespace WindowsGame2
         {
             keyboard = Keyboard.GetState();
 
-            if (keyboard.IsKeyDown(Keys.Up))                   //si la touche up est effoncée...
+            if (Position.X <= 0)
             {
-                Position.Y -= Speed;
+                Position.X += Speed;
             }
-            else if (keyboard.IsKeyDown(Keys.Down))
+
+            else if (Position.X >= (Largeur - link0.Width))
+            {
+                Position.X -= Speed;
+            }
+
+            else if (Position.Y == 0)
             {
                 Position.Y += Speed;
             }
 
+            else if (Position.Y >= (Longueur - link0.Height))
+            {
+                Position.Y -= Speed;
+            }
+
+       
+            if (keyboard.IsKeyDown(Keys.Up))                   //si la touche up est enfoncée...
+            {
+                    Position.Y -= Speed;
+            }
+               
+            if (keyboard.IsKeyDown(Keys.Down))
+            {
+                    Position.Y += Speed;
+            }
+
+               
             if (keyboard.IsKeyDown(Keys.Right))                //pour savoir si une touche est relachée on utilise IsKeyUp(Keys.) sisi!
             {
-                Position.X += Speed;
+                    Position.X += Speed;
             }
-            else if (keyboard.IsKeyDown(Keys.Left))
+
+               
+            if (keyboard.IsKeyDown(Keys.Left))
             {
-                Position.X -= Speed;
+                    Position.X -= Speed;
             }
+            
+
             base.Update(gameTime);
 
         }
