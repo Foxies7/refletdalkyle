@@ -13,8 +13,6 @@ C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\ob
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
-C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\10.xnb
-C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\11.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\12.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\13.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\14.xnb
@@ -26,8 +24,6 @@ C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bi
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\28.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\29.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\30.xnb
-C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\31.xnb
-C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\32.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\23.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\24.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\15.xnb
@@ -45,3 +41,5 @@ C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bi
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\5.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\6.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\7.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\10.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\11.xnb

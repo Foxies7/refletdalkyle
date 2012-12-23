@@ -11,31 +11,13 @@
       <Time>2012-12-16T18:48:59.4687426+01:00</Time>
     </Item>
     <Item>
-      <Source>10.png</Source>
-      <Name>10</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\10.xnb</Output>
-      <Time>2012-12-23T15:06:49.1093183+01:00</Time>
-    </Item>
-    <Item>
-      <Source>11.png</Source>
-      <Name>11</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\11.xnb</Output>
-      <Time>2012-12-23T15:06:49.1193189+01:00</Time>
-    </Item>
-    <Item>
       <Source>12.png</Source>
       <Name>12</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\12.xnb</Output>
-      <Time>2012-12-23T15:06:39.4887681+01:00</Time>
+      <Time>2012-12-23T16:25:29.4042773+01:00</Time>
     </Item>
     <Item>
       <Source>13.png</Source>
@@ -44,7 +26,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\13.xnb</Output>
-      <Time>2012-12-23T15:06:39.4947684+01:00</Time>
+      <Time>2012-12-23T16:25:29.4062775+01:00</Time>
     </Item>
     <Item>
       <Source>14.png</Source>
@@ -53,7 +35,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\14.xnb</Output>
-      <Time>2012-12-23T15:06:39.5017688+01:00</Time>
+      <Time>2012-12-23T16:25:29.3432739+01:00</Time>
     </Item>
     <Item>
       <Source>8.png</Source>
@@ -62,7 +44,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\8.xnb</Output>
-      <Time>2012-12-23T15:06:49.0933174+01:00</Time>
+      <Time>2012-12-23T15:53:15.3566561+01:00</Time>
     </Item>
     <Item>
       <Source>9.png</Source>
@@ -71,7 +53,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\9.xnb</Output>
-      <Time>2012-12-23T15:06:49.1013179+01:00</Time>
+      <Time>2012-12-23T15:53:15.3596563+01:00</Time>
     </Item>
     <Item>
       <Source>25.png</Source>
@@ -80,7 +62,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\25.xnb</Output>
-      <Time>2012-12-23T15:06:29.6462051+01:00</Time>
+      <Time>2012-12-23T16:25:20.3447592+01:00</Time>
     </Item>
     <Item>
       <Source>26.png</Source>
@@ -89,7 +71,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\26.xnb</Output>
-      <Time>2012-12-23T15:06:29.6532055+01:00</Time>
+      <Time>2012-12-23T16:25:20.3477593+01:00</Time>
     </Item>
     <Item>
       <Source>27.png</Source>
@@ -98,7 +80,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\27.xnb</Output>
-      <Time>2012-12-23T15:06:29.6602059+01:00</Time>
+      <Time>2012-12-23T16:25:20.3497595+01:00</Time>
     </Item>
     <Item>
       <Source>28.png</Source>
@@ -107,7 +89,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\28.xnb</Output>
-      <Time>2012-12-23T15:06:29.5461994+01:00</Time>
+      <Time>2012-12-23T16:25:20.3527596+01:00</Time>
     </Item>
     <Item>
       <Source>29.png</Source>
@@ -116,7 +98,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\29.xnb</Output>
-      <Time>2012-12-23T15:06:29.5531998+01:00</Time>
+      <Time>2012-12-23T16:25:20.3557598+01:00</Time>
     </Item>
     <Item>
       <Source>30.png</Source>
@@ -125,25 +107,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\30.xnb</Output>
-      <Time>2012-12-23T15:06:29.5602002+01:00</Time>
-    </Item>
-    <Item>
-      <Source>31.png</Source>
-      <Name>31</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\31.xnb</Output>
-      <Time>2012-12-23T15:06:29.5682006+01:00</Time>
-    </Item>
-    <Item>
-      <Source>32.png</Source>
-      <Name>32</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\32.xnb</Output>
-      <Time>2012-12-23T15:06:29.575201+01:00</Time>
+      <Time>2012-12-23T16:25:20.3577599+01:00</Time>
     </Item>
     <Item>
       <Source>23.png</Source>
@@ -152,7 +116,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\23.xnb</Output>
-      <Time>2012-12-23T15:06:29.5822014+01:00</Time>
+      <Time>2012-12-23T16:25:20.3397589+01:00</Time>
     </Item>
     <Item>
       <Source>24.png</Source>
@@ -161,7 +125,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\24.xnb</Output>
-      <Time>2012-12-23T15:06:29.5892018+01:00</Time>
+      <Time>2012-12-23T16:25:20.341759+01:00</Time>
     </Item>
     <Item>
       <Source>15.png</Source>
@@ -170,7 +134,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\15.xnb</Output>
-      <Time>2012-12-23T15:06:39.5087692+01:00</Time>
+      <Time>2012-12-23T16:25:29.346274+01:00</Time>
     </Item>
     <Item>
       <Source>16.png</Source>
@@ -179,7 +143,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\16.xnb</Output>
-      <Time>2012-12-23T15:06:39.5147696+01:00</Time>
+      <Time>2012-12-23T16:25:29.3912766+01:00</Time>
     </Item>
     <Item>
       <Source>17.png</Source>
@@ -188,7 +152,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\17.xnb</Output>
-      <Time>2012-12-23T15:06:39.4477657+01:00</Time>
+      <Time>2012-12-23T16:25:29.3942768+01:00</Time>
     </Item>
     <Item>
       <Source>18.png</Source>
@@ -197,7 +161,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\18.xnb</Output>
-      <Time>2012-12-23T15:06:39.4547661+01:00</Time>
+      <Time>2012-12-23T16:25:29.3972769+01:00</Time>
     </Item>
     <Item>
       <Source>19.png</Source>
@@ -206,7 +170,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\19.xnb</Output>
-      <Time>2012-12-23T15:06:39.4617665+01:00</Time>
+      <Time>2012-12-23T16:25:29.3992771+01:00</Time>
     </Item>
     <Item>
       <Source>20.png</Source>
@@ -215,7 +179,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\20.xnb</Output>
-      <Time>2012-12-23T15:06:39.4677669+01:00</Time>
+      <Time>2012-12-23T16:25:29.4022772+01:00</Time>
     </Item>
     <Item>
       <Source>21.png</Source>
@@ -224,7 +188,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\21.xnb</Output>
-      <Time>2012-12-23T15:06:39.4757673+01:00</Time>
+      <Time>2012-12-23T16:25:20.3607601+01:00</Time>
     </Item>
     <Item>
       <Source>22.png</Source>
@@ -233,7 +197,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\22.xnb</Output>
-      <Time>2012-12-23T15:06:39.4827677+01:00</Time>
+      <Time>2012-12-23T16:25:20.3377588+01:00</Time>
     </Item>
     <Item>
       <Source>1.png</Source>
@@ -242,7 +206,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\1.xnb</Output>
-      <Time>2012-12-23T15:06:49.1273194+01:00</Time>
+      <Time>2012-12-23T15:53:15.4306604+01:00</Time>
     </Item>
     <Item>
       <Source>2.png</Source>
@@ -251,7 +215,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\2.xnb</Output>
-      <Time>2012-12-23T15:06:49.1363199+01:00</Time>
+      <Time>2012-12-23T15:53:15.4336606+01:00</Time>
     </Item>
     <Item>
       <Source>3.png</Source>
@@ -260,7 +224,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\3.xnb</Output>
-      <Time>2012-12-23T15:06:49.1443203+01:00</Time>
+      <Time>2012-12-23T15:53:15.4356607+01:00</Time>
     </Item>
     <Item>
       <Source>4.png</Source>
@@ -269,7 +233,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\4.xnb</Output>
-      <Time>2012-12-23T15:06:49.1513207+01:00</Time>
+      <Time>2012-12-23T15:53:15.4376608+01:00</Time>
     </Item>
     <Item>
       <Source>5.png</Source>
@@ -278,7 +242,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\5.xnb</Output>
-      <Time>2012-12-23T15:06:49.1593212+01:00</Time>
+      <Time>2012-12-23T15:53:15.440661+01:00</Time>
     </Item>
     <Item>
       <Source>6.png</Source>
@@ -287,7 +251,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\6.xnb</Output>
-      <Time>2012-12-23T15:06:49.0763164+01:00</Time>
+      <Time>2012-12-23T15:53:15.3516559+01:00</Time>
     </Item>
     <Item>
       <Source>7.png</Source>
@@ -296,7 +260,25 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\7.xnb</Output>
-      <Time>2012-12-23T15:06:49.0843169+01:00</Time>
+      <Time>2012-12-23T15:53:15.354656+01:00</Time>
+    </Item>
+    <Item>
+      <Source>10.png</Source>
+      <Name>10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\10.xnb</Output>
+      <Time>2012-12-23T16:27:32.7083299+01:00</Time>
+    </Item>
+    <Item>
+      <Source>11.png</Source>
+      <Name>11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\11.xnb</Output>
+      <Time>2012-12-23T16:27:32.7113301+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
