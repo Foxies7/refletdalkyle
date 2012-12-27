@@ -18,6 +18,7 @@ namespace WindowsGame2
         SpriteBatch spriteBatch;
 
         private Texture2D link0;        //on créé un attribut
+        private Texture2D mob0;
         private int Largeur;
         private int Longueur;
         private int Speed = 1;
@@ -25,6 +26,7 @@ namespace WindowsGame2
         private int Haut = 0;
         private int Bas = 0;
         private Vector2 Position;
+        private Vector2 Position_mob;
         private KeyboardState keyboard;  //état du clavier
 
         public Game()
@@ -46,9 +48,11 @@ namespace WindowsGame2
         protected override void LoadContent()
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            link0 = Content.Load<Texture2D>("1");   //chargement de l'image
-            Position = new Vector2(Largeur / 2 - link0.Width / 2, Longueur / 2 - link0.Height / 2); //place initialement l'image au centre
-
+            link0 = Content.Load<Texture2D>("21");   //chargement de l'image
+            Position = new Vector2(Largeur / 4 - link0.Width / 2, Longueur / 2 - link0.Height / 2); 
+            mob0 = Content.Load<Texture2D>("goku0");
+            Position_mob = new Vector2(3 * Largeur / 4 -mob0.Width / 2, Longueur / 2 - mob0.Height / 2); 
+             //place les deux images de chaque coté de l'écran (comme dans un jeu de combat 2D) 
 
         }
 
@@ -295,13 +299,14 @@ namespace WindowsGame2
             }
             #endregion
 
-
+            #region -Mouvements à Gauche-
             if (keyboard.IsKeyDown(Keys.Left))
             {
                     Position.X -= Speed;
             }
-            
+            #endregion
 
+                        
             base.Update(gameTime);
 
         }
@@ -312,6 +317,7 @@ namespace WindowsGame2
 
             spriteBatch.Begin();                                                       //affiche image pour la déplacer 
             spriteBatch.Draw(link0, Position, Color.White);
+            spriteBatch.Draw(mob0, Position_mob, Color.White);
             spriteBatch.End();
 
 

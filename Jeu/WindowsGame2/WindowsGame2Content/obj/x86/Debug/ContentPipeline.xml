@@ -280,6 +280,15 @@
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\11.xnb</Output>
       <Time>2012-12-23T16:27:32.7113301+01:00</Time>
     </Item>
+    <Item>
+      <Source>goku0.png</Source>
+      <Name>goku0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\goku0.xnb</Output>
+      <Time>2012-12-27T11:11:25.3790616+01:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
