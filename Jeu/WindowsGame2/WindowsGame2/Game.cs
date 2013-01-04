@@ -21,7 +21,8 @@ namespace WindowsGame2
         private Texture2D mob0;
         private int Largeur;
         private int Longueur;
-        private int Speed = 1;
+        private int Speed = 2;
+        private int Speed_mob = 1;
         private int Droite = 0;
         private int Haut = 0;
         private int Bas = 0;
@@ -66,8 +67,8 @@ namespace WindowsGame2
         {
             keyboard = Keyboard.GetState();
 
-           
 
+            #region -Collision Bords-
             if (Position.X <= 0)
             {
                 Position.X += Speed;
@@ -87,9 +88,32 @@ namespace WindowsGame2
             {
                 Position.Y -= Speed;
             }
+            #endregion
+
+            #region -Mouvements Mob-
+            if (keyboard.IsKeyDown(Keys.D))
+            {
+                Position_mob.X += Speed_mob;
+            }
+
+            if (keyboard.IsKeyDown(Keys.Q))
+            {
+                Position_mob.X -= Speed_mob;
+            }
+
+            if (keyboard.IsKeyDown(Keys.S))
+            {
+                Position_mob.Y += Speed_mob;
+            }
+
+            if (keyboard.IsKeyDown(Keys.Z))
+            {
+                Position_mob.Y -= Speed_mob;
+            }
+            #endregion
 
             #region -Mouvements en Haut-
-       
+
             if (keyboard.IsKeyDown(Keys.Up))                   //si la touche up est enfoncée...
             {
                 if ((Haut == 0) || (Haut == 1) || (Haut == 2))
@@ -305,6 +329,7 @@ namespace WindowsGame2
                     Position.X -= Speed;
             }
             #endregion
+
 
                         
             base.Update(gameTime);
