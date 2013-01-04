@@ -21,8 +21,8 @@ namespace WindowsGame2
         private Texture2D mob0;
         private int Largeur;
         private int Longueur;
-        private int Speed = 2;
-        private int Speed_mob = 1;
+        private int Speed = 1;
+        private int Gauche = 0;
         private int Droite = 0;
         private int Haut = 0;
         private int Bas = 0;
@@ -90,27 +90,7 @@ namespace WindowsGame2
             }
             #endregion
 
-            #region -Mouvements Mob-
-            if (keyboard.IsKeyDown(Keys.D))
-            {
-                Position_mob.X += Speed_mob;
-            }
-
-            if (keyboard.IsKeyDown(Keys.Q))
-            {
-                Position_mob.X -= Speed_mob;
-            }
-
-            if (keyboard.IsKeyDown(Keys.S))
-            {
-                Position_mob.Y += Speed_mob;
-            }
-
-            if (keyboard.IsKeyDown(Keys.Z))
-            {
-                Position_mob.Y -= Speed_mob;
-            }
-            #endregion
+            //pour savoir si une touche est relachée on utilise IsKeyUp(Keys."le nom de la touche") sisi!
 
             #region -Mouvements en Haut-
 
@@ -254,9 +234,7 @@ namespace WindowsGame2
                     Position.Y += Speed;
             }
 #endregion
-
-            //pour savoir si une touche est relachée on utilise IsKeyUp(Keys."le nom de la touche") sisi!
-
+                        
             #region -Mouvements à Droite-
             if (keyboard.IsKeyDown(Keys.Right))                
             {
@@ -326,7 +304,67 @@ namespace WindowsGame2
             #region -Mouvements à Gauche-
             if (keyboard.IsKeyDown(Keys.Left))
             {
-                    Position.X -= Speed;
+                if ((Gauche == 0) || (Gauche == 1) || (Gauche == 2) || (Gauche == 3))
+                {
+                    link0 = Content.Load<Texture2D>("39");
+                    Gauche++;
+                }
+
+                if ((Gauche == 4) || (Gauche == 5) || (Gauche == 6) || (Gauche == 7))
+                {
+                    link0 = Content.Load<Texture2D>("38");
+                    Gauche++;
+                }
+
+                if ((Gauche == 8) || (Gauche == 9) || (Gauche == 10) || (Gauche == 11))
+                {
+                    link0 = Content.Load<Texture2D>("37");
+                    Gauche++;
+                }
+
+                if ((Gauche == 12) || (Gauche == 13) || (Gauche == 14) || (Gauche == 15))
+                {
+                    link0 = Content.Load<Texture2D>("36");
+                    Gauche++;
+                }
+
+                if ((Gauche == 16) || (Gauche == 17) || (Gauche == 18) || (Gauche == 19))
+                {
+                    link0 = Content.Load<Texture2D>("35");
+                    Gauche++;
+                }
+
+                if ((Gauche == 20) || (Gauche == 21) || (Gauche == 22) || (Gauche == 23))
+                {
+                    link0 = Content.Load<Texture2D>("34");
+                    Gauche++;
+                }
+
+                if ((Gauche == 24) || (Gauche == 25) || (Gauche == 26) || (Gauche == 27))
+                {
+                    link0 = Content.Load<Texture2D>("33");
+                    Gauche++;
+                }
+
+                if ((Gauche == 28) || (Gauche == 29) || (Gauche == 30))
+                {
+                    link0 = Content.Load<Texture2D>("32");
+                    Gauche++;
+                }
+
+                if ((Gauche == 31) || (Gauche == 32))
+                {
+                    link0 = Content.Load<Texture2D>("31");
+                    Gauche++;
+                }
+
+                else if (Gauche == 33)
+                {
+                    link0 = Content.Load<Texture2D>("31");
+                    Gauche -= 33;
+                }
+
+                Position.X -= Speed;  
             }
             #endregion
 

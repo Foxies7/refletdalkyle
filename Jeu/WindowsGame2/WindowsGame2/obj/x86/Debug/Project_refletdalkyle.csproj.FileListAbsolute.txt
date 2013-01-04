@@ -44,3 +44,12 @@ C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bi
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\10.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\11.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\goku0.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\31.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\32.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\33.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\34.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\35.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\36.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\37.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\38.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\39.xnb

@@ -30,3 +30,12 @@ Content\7.xnb
 Content\10.xnb
 Content\11.xnb
 Content\goku0.xnb
+Content\31.xnb
+Content\32.xnb
+Content\33.xnb
+Content\34.xnb
+Content\35.xnb
+Content\36.xnb
+Content\37.xnb
+Content\38.xnb
+Content\39.xnb
