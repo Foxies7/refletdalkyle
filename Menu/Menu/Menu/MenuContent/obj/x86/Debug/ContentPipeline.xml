@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bonusq.png</Source>
+      <Name>bonusq</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\bonusq.xnb</Output>
+      <Time>2013-01-03T19:43:43.1501261+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chargerpartie.png</Source>
+      <Name>chargerpartie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie.xnb</Output>
+      <Time>2013-01-03T19:43:43.1561264+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fondmenu1.png</Source>
+      <Name>fondmenu1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\fondmenu1.xnb</Output>
+      <Time>2013-01-03T19:43:43.3261361+01:00</Time>
+    </Item>
+    <Item>
+      <Source>nouveaujeu.png</Source>
+      <Name>nouveaujeu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeu.xnb</Output>
+      <Time>2013-01-03T19:43:43.3311364+01:00</Time>
+    </Item>
+    <Item>
+      <Source>optionsyf.png</Source>
+      <Name>optionsyf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\optionsyf.xnb</Output>
+      <Time>2013-01-03T19:43:43.3361367+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Compo.wav</Source>
+      <Name>Compo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\Compo.xnb</Output>
+      <Extra>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\Compo.wma</Extra>
+      <Time>2013-01-03T19:43:43.2971345+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus.png</Source>
+      <Name>bonus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\bonus.xnb</Output>
+      <Time>2013-01-04T01:41:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus_surbrillance.png</Source>
+      <Name>bonus_surbrillance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\bonus_surbrillance.xnb</Output>
+      <Time>2013-01-04T01:52:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chargerpartievrai.png</Source>
+      <Name>chargerpartievrai</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartievrai.xnb</Output>
+      <Time>2013-01-03T22:55:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chargerpartie_inactif.png</Source>
+      <Name>chargerpartie_inactif</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie_inactif.xnb</Output>
+      <Time>2013-01-04T01:41:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chargerpartie_surbrillance.png</Source>
+      <Name>chargerpartie_surbrillance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie_surbrillance.xnb</Output>
+      <Time>2013-01-03T22:54:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>nouveaujeuvrai.png</Source>
+      <Name>nouveaujeuvrai</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeuvrai.xnb</Output>
+      <Time>2013-01-04T01:40:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>nouveaujeu_surbrillance.png</Source>
+      <Name>nouveaujeu_surbrillance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeu_surbrillance.xnb</Output>
+      <Time>2013-01-04T01:40:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>options.png</Source>
+      <Name>options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\options.xnb</Output>
+      <Time>2013-01-04T01:40:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>options_surbrillance.png</Source>
+      <Name>options_surbrillance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\options_surbrillance.xnb</Output>
+      <Time>2013-01-04T01:40:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ecrantitre.jpg</Source>
+      <Name>ecrantitre</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\ecrantitre.xnb</Output>
+      <Time>2013-01-06T17:19:06+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\MenuContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\MenuContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-01T21:13:30.3849368+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
