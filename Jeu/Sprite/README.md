@@ -1,1 +1,0 @@
-on utilisera les sprite de droite pour créer ceux de gauche grace à un outil de XNA dont j'ai oublié le nom pour l'instant^^

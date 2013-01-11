@@ -1,3 +1,0 @@
-C:\Users\Guillaume\Documents\GitHub\refletdalkyle\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
