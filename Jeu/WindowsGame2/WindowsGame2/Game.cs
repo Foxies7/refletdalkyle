@@ -21,7 +21,7 @@ namespace WindowsGame2
         private Texture2D mob0;
         private int Largeur;
         private int Longueur;
-        private int Speed = 1;
+        private int Speed = 2;
         private int Gauche = 0;
         private int Droite = 0;
         private int Haut = 0;
@@ -71,7 +71,27 @@ namespace WindowsGame2
             keyboard = Keyboard.GetState();
 
 
-            #region -Collision Bords-
+            #region -Collisions-
+
+            #region -Contact-
+
+            if ((Position.X + (link0.Width)/2 >= Position_mob.X - (mob0.Width)/2) && (Position.Y + (link0.Height)/2 >= Position_mob.Y + (mob0.Height)/2 ))
+            {
+                if (keyboard.IsKeyDown(Keys.Right))
+                {
+                    Position.X -= Speed; 
+                }
+
+                
+                
+                
+                
+            }
+
+            
+
+            #region -Bords-
+
             if (Position.X <= 0)
             {
                 Position.X += Speed;
@@ -92,8 +112,14 @@ namespace WindowsGame2
                 Position.Y -= Speed;
             }
             #endregion
+            #endregion
+            #endregion
+
+
 
             //pour savoir si une touche est relachée on utilise IsKeyUp(Keys."le nom de la touche") sisi! LOL
+
+            #region-Position Statique-
             if (keyboard.IsKeyUp(Keys.Up) && (batard == 1))
             {
                 link0 = Content.Load<Texture2D>("5");
@@ -113,8 +139,7 @@ namespace WindowsGame2
             {
                 link0 = Content.Load<Texture2D>("39");
             }
-
-            
+            #endregion
 
             #region -Mouvements en Haut-
 
@@ -396,8 +421,8 @@ namespace WindowsGame2
             }
             #endregion
 
-
-                        
+            
+                    
             base.Update(gameTime);
 
         }

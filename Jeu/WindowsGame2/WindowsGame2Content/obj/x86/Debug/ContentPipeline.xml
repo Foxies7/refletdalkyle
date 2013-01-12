@@ -370,15 +370,6 @@
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\39.xnb</Output>
       <Time>2013-01-04T16:27:32.9060454+01:00</Time>
     </Item>
-    <Item>
-      <Source>ground.jpg</Source>
-      <Name>ground</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ground.xnb</Output>
-      <Time>2013-01-11T22:14:39.9520253+01:00</Time>
-    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

@@ -39,4 +39,3 @@ Content\36.xnb
 Content\37.xnb
 Content\38.xnb
 Content\39.xnb
-Content\ground.xnb
