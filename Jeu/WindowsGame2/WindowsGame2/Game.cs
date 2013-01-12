@@ -57,7 +57,7 @@ namespace WindowsGame2
             mob0 = Content.Load<Texture2D>("goku0");
             Position_mob = new Vector2(3 * Largeur / 4 -mob0.Width / 2, Longueur / 2 - mob0.Height / 2); 
              //place les deux images de chaque coté de l'écran (comme dans un jeu de combat 2D) 
-            ecran = Content.Load<Texture2D>("ground");
+            /*ecran = Content.Load<Texture2D>("ground"); */
         }
 
         protected override void UnloadContent()
