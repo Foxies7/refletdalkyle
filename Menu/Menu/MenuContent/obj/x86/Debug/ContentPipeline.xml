@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bonusq.png</Source>
+      <Name>bonusq</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\bonusq.xnb</Output>
+      <Time>2013-01-11T22:27:02.5236216+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chargerpartie.png</Source>
+      <Name>chargerpartie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie.xnb</Output>
+      <Time>2013-01-11T22:27:02.5246217+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fondmenu1.png</Source>
+      <Name>fondmenu1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\fondmenu1.xnb</Output>
+      <Time>2013-01-11T22:27:02.5406226+01:00</Time>
+    </Item>
+    <Item>
+      <Source>nouveaujeu.png</Source>
+      <Name>nouveaujeu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeu.xnb</Output>
+      <Time>2013-01-11T22:27:02.5406226+01:00</Time>
+    </Item>
+    <Item>
+      <Source>optionsyf.png</Source>
+      <Name>optionsyf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\optionsyf.xnb</Output>
+      <Time>2013-01-11T22:27:02.5596237+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus.png</Source>
+      <Name>bonus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\bonus.xnb</Output>
+      <Time>2013-01-11T22:27:02.4986202+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bonus_surbrillance.png</Source>
+      <Name>bonus_surbrillance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\bonus_surbrillance.xnb</Output>
+      <Time>2013-01-12T02:34:35.757178+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chargerpartievrai.png</Source>
+      <Name>chargerpartievrai</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartievrai.xnb</Output>
+      <Time>2013-01-11T22:27:02.5256217+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chargerpartie_inactif.png</Source>
+      <Name>chargerpartie_inactif</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie_inactif.xnb</Output>
+      <Time>2013-01-11T22:27:02.5246217+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chargerpartie_surbrillance.png</Source>
+      <Name>chargerpartie_surbrillance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie_surbrillance.xnb</Output>
+      <Time>2013-01-12T02:51:29.31215+01:00</Time>
+    </Item>
+    <Item>
+      <Source>nouveaujeuvrai.png</Source>
+      <Name>nouveaujeuvrai</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeuvrai.xnb</Output>
+      <Time>2013-01-11T22:27:02.5416226+01:00</Time>
+    </Item>
+    <Item>
+      <Source>nouveaujeu_surbrillance.png</Source>
+      <Name>nouveaujeu_surbrillance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeu_surbrillance.xnb</Output>
+      <Time>2013-01-12T12:05:55.131586+01:00</Time>
+    </Item>
+    <Item>
+      <Source>options.png</Source>
+      <Name>options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\options.xnb</Output>
+      <Time>2013-01-11T22:27:02.5586236+01:00</Time>
+    </Item>
+    <Item>
+      <Source>options_surbrillance.png</Source>
+      <Name>options_surbrillance</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\options_surbrillance.xnb</Output>
+      <Time>2013-01-12T12:07:47.6870238+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ecrantitre.jpg</Source>
+      <Name>ecrantitre</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\ecrantitre.xnb</Output>
+      <Time>2013-01-11T22:27:02.5366223+01:00</Time>
+    </Item>
+    <Item>
+      <Source>quitter.png</Source>
+      <Name>quitter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\quitter.xnb</Output>
+      <Time>2013-01-12T12:30:31.6770395+01:00</Time>
+    </Item>
+    <Item>
+      <Source>quitterSelect.png</Source>
+      <Name>quitterSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\quitterSelect.xnb</Output>
+      <Time>2013-01-12T12:29:02.4939385+01:00</Time>
+    </Item>
+    <Item>
+      <Source>quitterSurvol.png</Source>
+      <Name>quitterSurvol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\quitterSurvol.xnb</Output>
+      <Time>2013-01-12T12:31:46.4053137+01:00</Time>
+    </Item>
+    <Item>
+      <Source>retour.png</Source>
+      <Name>retour</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\retour.xnb</Output>
+      <Time>2013-01-12T17:50:50.3112825+01:00</Time>
+    </Item>
+    <Item>
+      <Source>retourSelect.png</Source>
+      <Name>retourSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\retourSelect.xnb</Output>
+      <Time>2013-01-12T17:50:11.5680665+01:00</Time>
+    </Item>
+    <Item>
+      <Source>retourSurvol.png</Source>
+      <Name>retourSurvol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\retourSurvol.xnb</Output>
+      <Time>2013-01-12T17:53:25.3781518+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fenetre.png</Source>
+      <Name>fenetre</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\fenetre.xnb</Output>
+      <Time>2013-01-12T18:47:17.0559932+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fenetreSurvol.png</Source>
+      <Name>fenetreSurvol</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\fenetreSurvol.xnb</Output>
+      <Time>2013-01-12T18:48:08.697947+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Compo.wav</Source>
+      <Name>Compo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\Compo.xnb</Output>
+      <Extra>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\Compo.wma</Extra>
+      <Time>2013-01-11T22:27:02.4976201+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\MenuContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\MenuContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-06T00:51:29.6675706+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
