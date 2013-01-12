@@ -15,27 +15,18 @@ namespace Menu
     class MouseEvent
     {
 
-        MouseState buttonPressed;
-
+        MouseState mouse = Mouse.GetState();
         public MouseEvent()
         {
 
         }
 
-        public bool UpdateMouse()
-        {
-            buttonPressed = Mouse.GetState();
-            if (buttonPressed.LeftButton == ButtonState.Pressed)
-                return true;
-            else
-                return false;
-        }
 
         public Rectangle getMouseRectangle()
         {
             Rectangle mouseRectangle;
-            mouseRectangle = new Rectangle((int)buttonPressed.X,
-                (int)buttonPressed.Y, 1, 1);
+            mouseRectangle = new Rectangle((int)mouse.X,
+                (int)mouse.Y, 1, 1);
             return mouseRectangle;
         }
 

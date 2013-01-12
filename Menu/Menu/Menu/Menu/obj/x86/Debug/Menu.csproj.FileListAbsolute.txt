@@ -21,3 +21,34 @@ C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Me
 C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\options.xnb
 C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\options_surbrillance.xnb
 C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Menu\bin\x86\Debug\Content\ecrantitre.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\bonusq.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\fondmenu1.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeu.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\optionsyf.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\bonus.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\bonus_surbrillance.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartievrai.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie_inactif.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie_surbrillance.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeuvrai.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeu_surbrillance.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\options.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\options_surbrillance.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\ecrantitre.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\Compo.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\Compo.wma
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Menu.exe
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Menu.pdb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\obj\x86\Debug\Menu.exe
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\obj\x86\Debug\Menu.pdb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\quitter.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\quitterSelect.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\quitterSurvol.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\retour.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\retourSelect.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\retourSurvol.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\fenetre.xnb
+C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\Menu\bin\x86\Debug\Content\fenetreSurvol.xnb

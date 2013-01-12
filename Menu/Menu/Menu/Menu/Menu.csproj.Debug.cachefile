@@ -3,7 +3,6 @@ Content\chargerpartie.xnb
 Content\fondmenu1.xnb
 Content\nouveaujeu.xnb
 Content\optionsyf.xnb
-Content\Compo.xnb
 Content\bonus.xnb
 Content\bonus_surbrillance.xnb
 Content\chargerpartievrai.xnb
@@ -14,4 +13,13 @@ Content\nouveaujeu_surbrillance.xnb
 Content\options.xnb
 Content\options_surbrillance.xnb
 Content\ecrantitre.xnb
+Content\Compo.xnb
+Content\quitter.xnb
+Content\quitterSelect.xnb
+Content\quitterSurvol.xnb
+Content\retour.xnb
+Content\retourSelect.xnb
+Content\retourSurvol.xnb
+Content\fenetre.xnb
+Content\fenetreSurvol.xnb
 Content\Compo.wma

@@ -29,7 +29,7 @@ namespace Menu
         }
         private Vector2 position; //Définit la variable représentant le vecteur
 
-        Rectangle container; //Définit la variable représentant le rectangle
+        public Rectangle container; //Définit la variable représentant le rectangle
 
 
 
