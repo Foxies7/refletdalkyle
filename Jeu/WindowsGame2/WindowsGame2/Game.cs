@@ -21,7 +21,8 @@ namespace WindowsGame2
         private Texture2D mob0;
         private int Largeur;
         private int Longueur;
-        private int Speed = 2;
+        private int Speed ;
+        private int Speed0 = 2;
         private int Gauche = 0;
         private int Droite = 0;
         private int Haut = 0;
@@ -54,7 +55,7 @@ namespace WindowsGame2
             spriteBatch = new SpriteBatch(GraphicsDevice);
             link0 = Content.Load<Texture2D>("21");   //chargement de l'image
             Position = new Vector2(Largeur / 4 - link0.Width / 2, Longueur / 2 - link0.Height / 2); 
-            mob0 = Content.Load<Texture2D>("goku0");
+            mob0 = Content.Load<Texture2D>("arbre");
             Position_mob = new Vector2(3 * Largeur / 4 -mob0.Width / 2, Longueur / 2 - mob0.Height / 2); 
              //place les deux images de chaque coté de l'écran (comme dans un jeu de combat 2D) 
             /*ecran = Content.Load<Texture2D>("ground"); */
@@ -70,6 +71,8 @@ namespace WindowsGame2
         {
             keyboard = Keyboard.GetState();
 
+            if (Keyboard.GetState().IsKeyDown(Keys.Escape))               // on quitte si echap
+                this.Exit();
 
             #region -Collisions-
 
@@ -82,13 +85,9 @@ namespace WindowsGame2
                     Position.X -= Speed; 
                 }
 
-                
-                
-                
-                
             }
 
-            
+            #endregion
 
             #region -Bords-
 
@@ -112,12 +111,19 @@ namespace WindowsGame2
                 Position.Y -= Speed;
             }
             #endregion
+            
             #endregion
-            #endregion
-
-
-
+            
             //pour savoir si une touche est relachée on utilise IsKeyUp(Keys."le nom de la touche") sisi! LOL
+
+            if (Keyboard.GetState().IsKeyDown(Keys.RightShift))
+            {
+                Speed = Speed0 + 2;
+            }
+
+            else
+                Speed = Speed0;
+       
 
             #region-Position Statique-
             if (keyboard.IsKeyUp(Keys.Up) && (batard == 1))
@@ -422,7 +428,6 @@ namespace WindowsGame2
             #endregion
 
             
-                    
             base.Update(gameTime);
 
         }

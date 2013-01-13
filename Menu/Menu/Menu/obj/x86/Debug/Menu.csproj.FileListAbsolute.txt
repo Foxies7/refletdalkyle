@@ -83,3 +83,34 @@ C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\obj\x86\Debug\ResolveAssembly
 C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\obj\x86\Debug\Menu.exe
 C:\Users\Andrea\Desktop\Code projet\Menu\Menu\Menu\obj\x86\Debug\Menu.pdb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\bonusq.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\fondmenu1.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeu.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\optionsyf.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\bonus.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\bonus_surbrillance.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartievrai.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie_inactif.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie_surbrillance.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeuvrai.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeu_surbrillance.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\options.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\options_surbrillance.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\ecrantitre.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\quitter.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\quitterSelect.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\quitterSurvol.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\retour.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\retourSelect.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\retourSurvol.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\fenetre.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\fenetreSurvol.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\Compo.xnb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\Compo.wma
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Menu.exe
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Menu.pdb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\obj\x86\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\obj\x86\Debug\Menu.exe
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\obj\x86\Debug\Menu.pdb

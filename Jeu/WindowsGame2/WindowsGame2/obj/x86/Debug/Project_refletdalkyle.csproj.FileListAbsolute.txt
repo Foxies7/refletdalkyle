@@ -8,7 +8,6 @@ C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\zonzor.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
-C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
@@ -139,3 +138,5 @@ C:\Users\Andrea\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj
 C:\Users\Andrea\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Andrea\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
 C:\Users\Andrea\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\Project_refletdalkyle.csprojResolveAssemblyReference.cache
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\arbre.xnb
