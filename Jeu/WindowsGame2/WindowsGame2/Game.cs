@@ -73,7 +73,7 @@ namespace WindowsGame2
 
             if (Keyboard.GetState().IsKeyDown(Keys.Escape))               // on quitte si echap
                 this.Exit();
-
+                
             #region -Collisions-
 
             #region -Contact-
