@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\bonusq.xnb</Output>
-      <Time>2013-01-13T17:58:52.0067667+01:00</Time>
+      <Time>2013-01-14T11:21:26.7811333+01:00</Time>
     </Item>
     <Item>
       <Source>chargerpartie.png</Source>
@@ -17,7 +17,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie.xnb</Output>
-      <Time>2013-01-13T17:58:52.0077674+01:00</Time>
+      <Time>2013-01-14T11:21:26.7821365+01:00</Time>
     </Item>
     <Item>
       <Source>fondmenu1.png</Source>
@@ -26,7 +26,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\fondmenu1.xnb</Output>
-      <Time>2013-01-13T17:58:52.0307827+01:00</Time>
+      <Time>2013-01-14T11:21:26.8001485+01:00</Time>
     </Item>
     <Item>
       <Source>nouveaujeu.png</Source>
@@ -35,7 +35,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeu.xnb</Output>
-      <Time>2013-01-13T17:58:52.0317834+01:00</Time>
+      <Time>2013-01-14T11:21:26.8011483+01:00</Time>
     </Item>
     <Item>
       <Source>optionsyf.png</Source>
@@ -44,7 +44,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\optionsyf.xnb</Output>
-      <Time>2013-01-13T17:58:52.0437914+01:00</Time>
+      <Time>2013-01-14T11:21:26.8075552+01:00</Time>
     </Item>
     <Item>
       <Source>bonus.png</Source>
@@ -53,7 +53,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\bonus.xnb</Output>
-      <Time>2013-01-13T17:58:52.0047653+01:00</Time>
+      <Time>2013-01-14T11:21:26.7797255+01:00</Time>
     </Item>
     <Item>
       <Source>bonus_surbrillance.png</Source>
@@ -62,7 +62,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\bonus_surbrillance.xnb</Output>
-      <Time>2013-01-13T17:58:52.0067667+01:00</Time>
+      <Time>2013-01-14T11:21:26.7811333+01:00</Time>
     </Item>
     <Item>
       <Source>chargerpartievrai.png</Source>
@@ -71,7 +71,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartievrai.xnb</Output>
-      <Time>2013-01-13T17:58:52.0097691+01:00</Time>
+      <Time>2013-01-14T11:21:26.7841378+01:00</Time>
     </Item>
     <Item>
       <Source>chargerpartie_inactif.png</Source>
@@ -80,7 +80,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie_inactif.xnb</Output>
-      <Time>2013-01-13T17:58:52.0077674+01:00</Time>
+      <Time>2013-01-14T11:21:26.7831363+01:00</Time>
     </Item>
     <Item>
       <Source>chargerpartie_surbrillance.png</Source>
@@ -89,7 +89,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\chargerpartie_surbrillance.xnb</Output>
-      <Time>2013-01-13T17:58:52.008768+01:00</Time>
+      <Time>2013-01-14T11:21:26.7831363+01:00</Time>
     </Item>
     <Item>
       <Source>nouveaujeuvrai.png</Source>
@@ -98,7 +98,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeuvrai.xnb</Output>
-      <Time>2013-01-13T17:58:52.0337847+01:00</Time>
+      <Time>2013-01-14T11:21:26.8021494+01:00</Time>
     </Item>
     <Item>
       <Source>nouveaujeu_surbrillance.png</Source>
@@ -107,7 +107,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\nouveaujeu_surbrillance.xnb</Output>
-      <Time>2013-01-13T17:58:52.0327841+01:00</Time>
+      <Time>2013-01-14T11:21:26.8021494+01:00</Time>
     </Item>
     <Item>
       <Source>options.png</Source>
@@ -116,7 +116,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\options.xnb</Output>
-      <Time>2013-01-13T17:58:52.0417901+01:00</Time>
+      <Time>2013-01-14T11:21:26.8065554+01:00</Time>
     </Item>
     <Item>
       <Source>options_surbrillance.png</Source>
@@ -125,7 +125,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\options_surbrillance.xnb</Output>
-      <Time>2013-01-13T17:58:52.0427907+01:00</Time>
+      <Time>2013-01-14T11:21:26.8065554+01:00</Time>
     </Item>
     <Item>
       <Source>ecrantitre.jpg</Source>
@@ -134,7 +134,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\ecrantitre.xnb</Output>
-      <Time>2013-01-13T17:58:52.0247787+01:00</Time>
+      <Time>2013-01-14T11:21:26.7961463+01:00</Time>
     </Item>
     <Item>
       <Source>quitter.png</Source>
@@ -143,7 +143,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\quitter.xnb</Output>
-      <Time>2013-01-13T17:58:52.0437914+01:00</Time>
+      <Time>2013-01-14T11:21:26.8075552+01:00</Time>
     </Item>
     <Item>
       <Source>quitterSelect.png</Source>
@@ -152,7 +152,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\quitterSelect.xnb</Output>
-      <Time>2013-01-13T17:58:52.0447925+01:00</Time>
+      <Time>2013-01-14T11:21:26.8085567+01:00</Time>
     </Item>
     <Item>
       <Source>quitterSurvol.png</Source>
@@ -161,7 +161,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\quitterSurvol.xnb</Output>
-      <Time>2013-01-13T17:58:52.0457928+01:00</Time>
+      <Time>2013-01-14T11:21:26.8085567+01:00</Time>
     </Item>
     <Item>
       <Source>retour.png</Source>
@@ -170,7 +170,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\retour.xnb</Output>
-      <Time>2013-01-13T17:58:52.0477941+01:00</Time>
+      <Time>2013-01-14T11:21:26.8105581+01:00</Time>
     </Item>
     <Item>
       <Source>retourSelect.png</Source>
@@ -179,7 +179,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\retourSelect.xnb</Output>
-      <Time>2013-01-13T17:58:52.0477941+01:00</Time>
+      <Time>2013-01-14T11:21:26.8115587+01:00</Time>
     </Item>
     <Item>
       <Source>retourSurvol.png</Source>
@@ -188,7 +188,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\retourSurvol.xnb</Output>
-      <Time>2013-01-13T17:58:52.0487952+01:00</Time>
+      <Time>2013-01-14T11:21:26.8115587+01:00</Time>
     </Item>
     <Item>
       <Source>fenetre.png</Source>
@@ -197,7 +197,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\fenetre.xnb</Output>
-      <Time>2013-01-13T17:58:52.0257798+01:00</Time>
+      <Time>2013-01-14T11:21:26.7961463+01:00</Time>
     </Item>
     <Item>
       <Source>fenetreSurvol.png</Source>
@@ -206,7 +206,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\fenetreSurvol.xnb</Output>
-      <Time>2013-01-13T17:58:52.0267801+01:00</Time>
+      <Time>2013-01-14T11:21:26.7971465+01:00</Time>
     </Item>
     <Item>
       <Source>Compo.wav</Source>
@@ -216,7 +216,7 @@
       <Options>None</Options>
       <Output>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\Compo.xnb</Output>
       <Extra>C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\bin\x86\Debug\Content\Compo.wma</Extra>
-      <Time>2013-01-13T17:58:51.9987618+01:00</Time>
+      <Time>2013-01-14T11:21:26.7747226+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>

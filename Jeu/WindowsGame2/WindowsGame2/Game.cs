@@ -29,7 +29,7 @@ namespace WindowsGame2
         private int Bas = 0;
         private int batard = 2;
         private Texture2D ecran;
-        private Rectangle r_Sprite1, r_Sprite2;
+        private Rectangle r_Sprite1, r_Sprite2, r_Sprite3;
         private int hauteurR_link = 24;
         private int largeurR_link = 19;
         private int hauteurR_mob = 65;
@@ -45,12 +45,12 @@ namespace WindowsGame2
 
         protected override void Initialize()
         {
-            
+            graphics.ToggleFullScreen();
             Largeur = Window.ClientBounds.Width;             //prend la largeur et longueur de la fenêtre
             Longueur = Window.ClientBounds.Height;
             r_Sprite1 = new Rectangle(Largeur / 2, Longueur / 2 , largeurR_link, hauteurR_link);
 
-            r_Sprite2 = new Rectangle(60, 80, largeurR_mob, hauteurR_mob);
+            r_Sprite2 = new Rectangle(560, 580, largeurR_mob, hauteurR_mob);
 
             base.Initialize();
 
@@ -60,9 +60,10 @@ namespace WindowsGame2
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
             link0 = Content.Load<Texture2D>("21");
-            mob0 = Content.Load<Texture2D>("arbre");   //chargement de l'image 
+            mob0 = Content.Load<Texture2D>("arbre");
+            //chargement de l'image 
              //place les deux images de chaque coté de l'écran (comme dans un jeu de combat 2D) 
-            /*ecran = Content.Load<Texture2D>("ground"); */
+            ecran = Content.Load<Texture2D>("Background");
         }
 
         protected override void UnloadContent()
@@ -80,27 +81,28 @@ namespace WindowsGame2
 
             #region Collision 
 
-            if (r_Sprite1.X < r_Sprite2.X)
-            {
-                if (r_Sprite1.Intersects(r_Sprite2))
-                    r_Sprite1.X -= Speed;     
-            }
-            else
-                if (r_Sprite1.X >= r_Sprite2.X)
-                {
-                    if (r_Sprite1.Intersects(r_Sprite2))
-                        r_Sprite1.X += Speed;
-                }
+            
+            if (r_Sprite1.Intersects(r_Sprite2) && r_Sprite1.Y <= r_Sprite2.Y && keyboard.IsKeyDown(Keys.Down))
+                r_Sprite1.Y -= Speed;
+
+            if (r_Sprite1.Intersects(r_Sprite2) && r_Sprite1.Y >= r_Sprite2.Y && keyboard.IsKeyDown(Keys.Up))
+                r_Sprite1.Y += Speed;
+
+            if (r_Sprite1.Intersects(r_Sprite2) && r_Sprite1.X <= r_Sprite2.X && keyboard.IsKeyDown(Keys.Right))
+                r_Sprite1.X -= Speed;
+
+            if (r_Sprite1.Intersects(r_Sprite2) && r_Sprite1.X >= r_Sprite2.X && keyboard.IsKeyDown(Keys.Left))
+                r_Sprite1.X += Speed + 1;
+
+
             #endregion
-
-
 
 
             #region -Bords-
 
-            if (r_Sprite1.X <= 1)
+            if (r_Sprite1.X <= 0)
             {
-                r_Sprite1.X = 1;
+                r_Sprite1.X = 0;
             }
 
             else if (r_Sprite1.X >= (Largeur - link0.Width))
@@ -108,9 +110,9 @@ namespace WindowsGame2
                 r_Sprite1.X -= Speed;
             }
 
-            else if (r_Sprite1.Y <= 1)
+            else if (r_Sprite1.Y <= 0)
             {
-                r_Sprite1.Y = 1;
+                r_Sprite1.Y = 0;
             }
 
             else if (r_Sprite1.Y >= (Longueur - link0.Height))
@@ -123,7 +125,7 @@ namespace WindowsGame2
             
             //pour savoir si une touche est relachée on utilise IsKeyUp(Keys."le nom de la touche") sisi! LOL
 
-            if (Keyboard.GetState().IsKeyDown(Keys.RightShift))
+            if (Keyboard.GetState().IsKeyDown(Keys.LeftShift))
             {
                 Speed = Speed0 + 2;
             }
@@ -484,7 +486,7 @@ namespace WindowsGame2
             GraphicsDevice.Clear(Color.White);
 
             spriteBatch.Begin();                                                       //affiche image pour la déplacer
-            /*spriteBatch.Draw(ecran, Vector2.Zero, Color.White); */
+            spriteBatch.Draw(ecran, Vector2.Zero, Color.White);
             spriteBatch.Draw(link0, r_Sprite1, Color.White);
             spriteBatch.Draw(mob0, r_Sprite2, Color.White);
             spriteBatch.End();

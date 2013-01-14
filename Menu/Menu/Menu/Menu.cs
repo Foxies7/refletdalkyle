@@ -109,9 +109,9 @@ namespace Menu
 
             #endregion
 
-            this.graphics.IsFullScreen = false;
-            sexyviolon = graphics.PreferredBackBufferWidth = 1920;
-            sexysaxo = graphics.PreferredBackBufferHeight = 1080;
+            this.graphics.IsFullScreen = true;
+            sexyviolon = graphics.PreferredBackBufferWidth;
+            sexysaxo = graphics.PreferredBackBufferHeight;
 
             Window.Title = "Menu";
 

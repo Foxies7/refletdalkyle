@@ -3,7 +3,6 @@ C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\
 C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
 C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
-C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\zonzor.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
@@ -39,7 +38,6 @@ C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bi
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\7.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\10.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\11.xnb
-C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\goku0.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\31.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\32.xnb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\33.xnb
@@ -185,3 +183,4 @@ C:\Users\Guillaume\Desktop\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\Project_r
 C:\Users\Guillaume\Desktop\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Guillaume\Desktop\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
 C:\Users\Guillaume\Desktop\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Background.xnb
