@@ -12,7 +12,7 @@ using System.Text;
 
 namespace WindowsGame2
 {
-    public class Sprite : Game
+    public class Sprite
     {
         public Texture2D Texture
         {
