@@ -10,3 +10,4 @@ C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalk
 C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\obj\x86\Debug\refletdalkyle.pdb
 C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\Content\Backgrounds\titlescreen.xnb
 C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\Content\Backgrounds\titlescreen.png
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\Content\Fonts\ControlFont.xnb

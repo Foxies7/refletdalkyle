@@ -26,6 +26,7 @@ namespace refletdalkyle
 
         GameStateManager stateManager;
         public TitleScreen TitleScreen;
+        public StartMenuScreen StartMenuScreen;
 
         #endregion
 
@@ -57,6 +58,8 @@ namespace refletdalkyle
             Components.Add(stateManager);
 
             TitleScreen = new TitleScreen(this, stateManager);
+            StartMenuScreen = new GameScreens.StartMenuScreen(this, stateManager);
+
             stateManager.ChangeState(TitleScreen);
         }
 

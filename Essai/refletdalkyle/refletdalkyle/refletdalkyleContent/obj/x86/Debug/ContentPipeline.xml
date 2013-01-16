@@ -10,6 +10,15 @@
       <Output>C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\Content\Backgrounds\titlescreen.xnb</Output>
       <Time>2013-01-16T10:24:38.7818852+01:00</Time>
     </Item>
+    <Item>
+      <Source>Fonts\ControlFont.spritefont</Source>
+      <Name>Fonts\ControlFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\Content\Fonts\ControlFont.xnb</Output>
+      <Time>2013-01-16T14:09:37.7195182+01:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
