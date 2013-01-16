@@ -114,3 +114,6 @@ C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\obj\x86\Debug\Men
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\obj\x86\Debug\Menu.exe
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\obj\x86\Debug\Menu.pdb
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\obj\x86\Debug\Menu.exe

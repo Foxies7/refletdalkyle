@@ -1,0 +1,12 @@
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\refletdalkyle.exe
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\refletdalkyle.pdb
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\RpgLibrary.dll
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\XRpgLibrary.dll
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\RpgLibrary.pdb
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\XRpgLibrary.pdb
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\obj\x86\Debug\refletdalkyle.exe
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\obj\x86\Debug\refletdalkyle.pdb
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\Content\Backgrounds\titlescreen.xnb
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\refletdalkyle\refletdalkyle\bin\x86\Debug\Content\Backgrounds\titlescreen.png

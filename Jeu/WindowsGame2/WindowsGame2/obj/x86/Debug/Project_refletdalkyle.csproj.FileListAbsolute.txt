@@ -136,7 +136,6 @@ C:\Users\Andrea\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\Project_refletdalkyle.csprojResolveAssemblyReference.cache
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\arbre.xnb
 C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\arbre.xnb
-C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\Project_refletdalkyle.csprojResolveAssemblyReference.cache
 C:\Users\Guillaume\Desktop\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\1.xnb
 C:\Users\Guillaume\Desktop\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\2.xnb
 C:\Users\Guillaume\Desktop\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\3.xnb
@@ -184,3 +183,5 @@ C:\Users\Guillaume\Desktop\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft
 C:\Users\Guillaume\Desktop\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
 C:\Users\Guillaume\Desktop\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Background.xnb
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Background.xnb
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Jeu\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache

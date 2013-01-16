@@ -2,3 +2,4 @@ C:\Users\Mira\Documents\Visual Studio 2010\Projects\Reflet d'Alkyle\Menu\Menu\Me
 C:\Users\Andrea\Documents\GitHub\refletdalkyle\Menu\Menu\Menu\MenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Andrea\Desktop\Code projet\Menu\Menu\MenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Enshiro\Documents\GitHub\refletdalkyle\Menu\Menu\MenuContent\obj\x86\Debug\MenuContent.contentprojResolveAssemblyReference.cache
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Menu\Menu\MenuContent\obj\x86\Debug\ResolveAssemblyReference.cache

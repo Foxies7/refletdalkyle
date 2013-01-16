@@ -1,0 +1,6 @@
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\RpgLibrary\bin\x86\Debug\RpgLibrary.dll
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\RpgLibrary\bin\x86\Debug\RpgLibrary.pdb
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\RpgLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\RpgLibrary\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\RpgLibrary\obj\x86\Debug\RpgLibrary.dll
+C:\Users\Guillaume\Documents\GitHub\refletdalkyle\Essai\refletdalkyle\RpgLibrary\obj\x86\Debug\RpgLibrary.pdb

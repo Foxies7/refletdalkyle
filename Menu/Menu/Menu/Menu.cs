@@ -141,6 +141,8 @@ namespace Menu
             boutonNouveauJeuSurvol.LoadContent(Content, "nouveaujeu_surbrillance");
             boutonNouveauJeuSurvol.Position = boutonNouveauJeu.Position;
 
+            LoadContent.
+
             #endregion
 
             #region -Bouton Charger Partie-
